@@ -30,6 +30,14 @@ Implementing these steps can help the hotel to make a competitive position in th
 
 ![image](https://github.com/user-attachments/assets/f5de74b0-df4e-4ec4-bf1a-4b50ab3201fa)
 
+Final Dashboard:
+
+
+![image](https://github.com/user-attachments/assets/c486df49-b846-488e-88f0-fd3029843300)
+
+
+
+
 
 
 
